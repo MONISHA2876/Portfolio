@@ -4,7 +4,7 @@ export default function Footer() {
     const year = new Date().getFullYear();
     return (
         <footer className="bg-black text-white py-6 mt-10 max-w-screen">
-            <div className="container px-4 flex flex-col md:flex-row justify-between">
+            <div className="container px-4 flex flex-col md:flex-row justify-between w-5xl mx-auto">
                 <div className="flex space-x-4">
                     <a href="https://github.com/MONISHA2876" target="_blank" rel="noopener noreferrer">
                         <Github className="w-5 h-5 hover:text-gray-500 transition-colors" />
