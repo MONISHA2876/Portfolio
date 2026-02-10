@@ -2,11 +2,17 @@
 
 A responsive personal portfolio website built to showcase my skills, projects, and technical experience.
 
-## 🎬 Demo
+## 🎬 Demo Video
 
 https://github.com/MONISHA2876/Portfolio/blob/main/Version%201%20demo.mp4
 
 > ▶️ Click the link above to watch the Demo video.
+
+## ☁️ Live Demo
+
+https://portfolio-five-jet-64.vercel.app/
+
+> ▶️ Click the link above to watch the Live Demo
 
 ## 🛠️ Tech Stack
 
